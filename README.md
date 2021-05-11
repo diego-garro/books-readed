@@ -18,3 +18,10 @@ readed by my own.
 **Title**: NumPy 3th edition
 **Publisher**: PACKT
 **Author**: Ivan Idris
+
+### 3.
+<img src="https://static.packt-cdn.com/products/9781783981960/cover/smaller" width="300"/>
+
+**Title**: Mastering Pandas
+**Publisher**: PACKT
+**Author**: Femi Anthony
