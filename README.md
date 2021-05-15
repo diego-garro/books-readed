@@ -25,3 +25,10 @@ readed by my own.
 **Title**: Mastering Pandas
 **Publisher**: PACKT
 **Author**: Femi Anthony
+
+### 4.
+<img src="https://static.packt-cdn.com/products/9781788625173/cover/smaller" width="300"/>
+
+**Title**: Matplotlib for Python Developers
+**Publisher**: PACKT
+**Author**: Aldrim Yim, Claire Chung, Allen Yu
