@@ -15,21 +15,21 @@ readed by my own.
 ### 2.
 <img src="https://static.packt-cdn.com/products/9781785281969/cover/smaller" width="300"/>
 
-**Title**: NumPy 3th edition
+**Title**: NumPy: Build efficient, high-speed programs using the high-performance NumPy mathematical library
 **Publisher**: PACKT
 **Author**: Ivan Idris
 
 ### 3.
 <img src="https://static.packt-cdn.com/products/9781783981960/cover/smaller" width="300"/>
 
-**Title**: Mastering Pandas
+**Title**: Mastering Pandas: Master the features and capabilities of Pandas, a data analysis toolkit for Python
 **Publisher**: PACKT
 **Author**: Femi Anthony
 
 ### 4.
 <img src="https://static.packt-cdn.com/products/9781788625173/cover/smaller" width="300"/>
 
-**Title**: Matplotlib for Python Developers
+**Title**: Matplotlib for Python Developers: Effective techniques for data visualization with Python
 **Publisher**: PACKT
 **Author**: Aldrim Yim, Claire Chung, Allen Yu
 
