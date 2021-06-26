@@ -32,3 +32,10 @@ readed by my own.
 **Title**: Matplotlib for Python Developers
 **Publisher**: PACKT
 **Author**: Aldrim Yim, Claire Chung, Allen Yu
+
+### 5.
+<img src="https://images-na.ssl-images-amazon.com/images/I/513QtwqV2WL._SX379_BO1,204,203,200_.jpg" width="300"/>
+
+**Title**: Fluent Python: Clear, concise, and effective programming
+**Publisher**: O'Reilly
+**Author**: Luciano Ramalho
