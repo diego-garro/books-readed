@@ -8,8 +8,9 @@ readed by my own.
 ### 1.
 <img src="https://images-na.ssl-images-amazon.com/images/I/51q7rOMu61L._SX379_BO1,204,203,200_.jpg" width="300"/>
 
-**Title**: Learning Python 5th edition
+**Title**: Learning Python
 **Publisher**: O'REILLY
+**Edition**: 5th
 **Author**: Mark Lutz
 
 ### 2.
@@ -17,6 +18,7 @@ readed by my own.
 
 **Title**: NumPy: Build efficient, high-speed programs using the high-performance NumPy mathematical library
 **Publisher**: PACKT
+**Edition**: 3th
 **Author**: Ivan Idris
 
 ### 3.
@@ -24,6 +26,7 @@ readed by my own.
 
 **Title**: Mastering Pandas: Master the features and capabilities of Pandas, a data analysis toolkit for Python
 **Publisher**: PACKT
+**Edition**: 1st
 **Author**: Femi Anthony
 
 ### 4.
@@ -31,6 +34,7 @@ readed by my own.
 
 **Title**: Matplotlib for Python Developers: Effective techniques for data visualization with Python
 **Publisher**: PACKT
+**Edition**: 2nd
 **Author**: Aldrim Yim, Claire Chung, Allen Yu
 
 ### 5.
@@ -38,4 +42,5 @@ readed by my own.
 
 **Title**: Fluent Python: Clear, concise, and effective programming
 **Publisher**: O'Reilly
+**Edition**: 1st
 **Author**: Luciano Ramalho
