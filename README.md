@@ -44,3 +44,11 @@ readed by my own.
 **Publisher**: O'Reilly
 **Edition**: 1st
 **Author**: Luciano Ramalho
+
+### 6.
+<img src="https://images-na.ssl-images-amazon.com/images/I/51j-9Zz-rHL._SX404_BO1,204,203,200_.jpg" width="300"/>
+
+**Title**: Clean Code in Python: Refactor your legacy code base
+**Publisher**: Packt
+**Edition**: 1st
+**Author**: Mariano Anaya
