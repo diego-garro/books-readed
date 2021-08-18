@@ -52,3 +52,11 @@ readed by my own.
 **Publisher**: Packt
 **Edition**: 1st
 **Author**: Mariano Anaya
+
+### 7.
+<img src="https://images-na.ssl-images-amazon.com/images/I/41GZUPnHenL._SX397_BO1,204,203,200_.jpg" width="300"/>
+
+**Title**: Build a career in Data Science
+**Publisher**: Manning
+**Edition**: 1st
+**Author**: Emily Robinson, Jaqueline Nolis
