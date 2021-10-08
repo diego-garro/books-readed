@@ -60,3 +60,11 @@ readed by my own.
 **Publisher**: Manning
 **Edition**: 1st
 **Author**: Emily Robinson, Jaqueline Nolis
+
+### 8.
+<img src="https://learning.oreilly.com/library/cover/9781492041122/250w/" width="300"/>
+
+**Title**: Data Science from Scratch: First Principles with Python
+**Publisher**: O'Reilly
+**Edition**: 2nd
+**Author**: Joel Grus
