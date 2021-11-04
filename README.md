@@ -67,4 +67,12 @@ readed by my own.
 **Title**: Data Science from Scratch: First Principles with Python
 **Publisher**: O'Reilly
 **Edition**: 2nd
-**Author**: Joel Grus
+**Author**: Joel
+
+### 9.
+<img src="https://images-na.ssl-images-amazon.com/images/I/51v+6jQE5xL._SX331_BO1,204,203,200_.jpg" width="300"/>
+
+**Title**: The Art of Data Science
+**Publisher**: lulu.com
+**Edition**: 1st
+**Author**: Roger Peng, Elizabeth Matsui
