@@ -84,3 +84,11 @@ readed by my own.
 **Publisher**: Addison-Wesley
 **Edition**: 1st
 **Author**: Alan A. A. Donovan, Brian W. Kernighan
+
+### 11.
+<img src="https://m.media-amazon.com/images/I/41Gn6pLhAVL.jpg" width="300"/>
+
+**Title**: Docker Deep Dive: Zero to Docker in a Single Book
+**Publisher**: Docker Captain
+**Edition**: May 2020 Edition
+**Author**: Nigel Poulton
