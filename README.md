@@ -92,3 +92,11 @@ readed by my own.
 **Publisher**: Docker Captain
 **Edition**: May 2020 Edition
 **Author**: Nigel Poulton
+
+### 12.
+<img src="https://assets.alexandria.raywenderlich.com/books/da/images/384d6592b1dfdaea25f773fc985dc73c943d8a3e1dbbc7f3647cd95c2cacaeec/w594.png" width="300"/>
+
+**Title**: Dart Apprentice: Beginning programming with Dart
+**Publisher**: reywenderlich.com
+**Edition**: 1st
+**Author**: Jonathan Sande, Matt Galloway
