@@ -108,3 +108,11 @@ readed by my own.
 **Publisher**: O'Reilly
 **Edition**: 1st
 **Author**: Coleb Hattingh
+
+### 14.
+<img src="https://learning.oreilly.com/library/cover/9781492077206/250w/" width="300"/>
+
+**Title**: Learning Go: An Idiomatic Approach To Real-World Go Programming
+**Publisher**: O'Reilly
+**Edition**: 1st
+**Author**: Jon Bodner
