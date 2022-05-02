@@ -116,3 +116,12 @@ readed by my own.
 **Publisher**: O'Reilly
 **Edition**: 1st
 **Author**: Jon Bodner
+
+### 15.
+<img src="https://images-na.ssl-images-amazon.com/images/I/41MKHMQQj-L._SY344_BO1,204,203,200_.jpg
+" width="300"/>
+
+**Title**: Essential TypeScript 4: From Beginner to Pro
+**Publisher**: Appress
+**Edition**: 2nd
+**Author**: Adam Freeman
