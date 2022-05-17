@@ -125,3 +125,12 @@ readed by my own.
 **Publisher**: Appress
 **Edition**: 2nd
 **Author**: Adam Freeman
+
+
+### 16.
+<img src="https://images-na.ssl-images-amazon.com/images/I/41u0Ttn+3CS._SX379_BO1,204,203,200_.jpg" width="300"/>
+
+**Title**: Robust Python: Write Clean and Maintainable Code
+**Publisher**: O'Reilly
+**Edition**: 1st
+**Author**: Patrick Viafore
