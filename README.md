@@ -134,3 +134,11 @@ readed by my own.
 **Publisher**: O'Reilly
 **Edition**: 1st
 **Author**: Patrick Viafore
+
+### 17.
+<img src="https://images.manning.com/360/480/resize/book/3/ddd56a6-ba2b-4ca4-bda2-540761b91c55/Go-Youngman_hi-res_REV.png" width="300"/>
+
+**Title**: Get Programming with Go
+**Publisher**: Manning
+**Edition**: 1st
+**Author**: Nathan Youngman, Roger Peppé
