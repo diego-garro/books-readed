@@ -118,7 +118,7 @@ readed by my own.
 **Author**: Jon Bodner
 
 ### 15.
-<img src="https://images-na.ssl-images-amazon.com/images/I/41MKHMQQj-L._SY344_BO1,204,203,200_.jpg
+<img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-7011-0
 " width="300"/>
 
 **Title**: Essential TypeScript 4: From Beginner to Pro
