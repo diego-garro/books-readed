@@ -142,3 +142,11 @@ readed by my own.
 **Publisher**: Manning
 **Edition**: 1st
 **Author**: Nathan Youngman, Roger Peppé
+
+### 18.
+<img src="https://learning.oreilly.com/library/cover/9781492057604/250w/" width="300"/>
+
+**Title**: Learning SQL
+**Publisher**: O'Reilly
+**Edition**: 3rd
+**Author**: Alan Beaulieu
