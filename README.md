@@ -175,3 +175,12 @@ readed by my own.
 **Publisher**: Packt
 **Edition**: 1st
 **Author**: Navule Pavan Kumar Rao
+
+### 20.
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51-q9CWNBHL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" width="300"/>
+
+**Title**: Architecture Patterns with Python
+**Publisher**: O'Reilly
+**Edition**: 1st
+**Author**: Harry Percival & Bob Gregory
