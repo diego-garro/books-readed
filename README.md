@@ -193,3 +193,12 @@ readed by my own.
 **Publisher**: Apress
 **Edition**: 1st
 **Author**: Adam Freeman
+
+### 22.
+
+<img src="https://m.media-amazon.com/images/I/51guG-AgJKL._SX260_.jpg" width="300"/>
+
+**Title**: Building Data Science Applications with FastAPI
+**Publisher**: PACKT
+**Edition**: 1st
+**Author**: François Voron
