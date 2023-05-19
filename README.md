@@ -202,3 +202,12 @@ readed by my own.
 **Publisher**: PACKT
 **Edition**: 1st
 **Author**: François Voron
+
+### 23.
+
+<img src="https://m.media-amazon.com/images/I/41YMNzaa5-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" width="300"/>
+
+**Title**: Data Structures & Algorithms in Dart
+**Publisher**: raywenderlich
+**Edition**: 1st
+**Author**: Jonathan Sande
