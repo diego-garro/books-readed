@@ -211,3 +211,12 @@ readed by my own.
 **Publisher**: raywenderlich
 **Edition**: 1st
 **Author**: Jonathan Sande
+
+### 24.
+
+<img src="https://content.packt.com/B17441/cover_image_small.jpeg" width="300"/>
+
+**Title**: Gir fot Programmers
+**Publisher**: PACKT
+**Edition**: 1st
+**Author**: Jesse Liberty
