@@ -220,3 +220,12 @@ readed by my own.
 **Publisher**: PACKT
 **Edition**: 1st
 **Author**: Jesse Liberty
+
+### 25.
+
+<img src="https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/bopytest2.jpg" width="300"/>
+
+**Title**: Python Testing wit pytest
+**Publisher**: The Pragmatic Programmers
+**Edition**: 2nd
+**Author**: Brian Okken
